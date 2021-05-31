@@ -1,4 +1,6 @@
-# MinkExtension
+# MinkExtension - DEPRECATED
+
+This repository was marked as read-only due inactivity for a long time. The content is not maintained.
 
 [![Build
 Status](https://travis-ci.org/Behat/MinkExtension.svg?branch=master)](https://travis-ci.org/Behat/MinkExtension)
